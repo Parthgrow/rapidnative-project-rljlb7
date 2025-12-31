@@ -1,0 +1,13 @@
+{
+  "name": "rapidnative-project-rljlb7",
+  "version": "1.0.0",
+  "description": "Created by RapidNative",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "keywords": [
+    "rapidnative"
+  ],
+  "license": "MIT"
+}
